@@ -4,4 +4,4 @@ slug: atlas-exandria
 order: 00
 ---
 # Atlas Exandria
-*by MrFarland (<a href="https://donfarland.com">donfarland.com</a>)* {.small-text}
+*by MrFarland (<a href="https://donfarland.com">donfarland.com</a>)*
