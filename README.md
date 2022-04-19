@@ -1,1 +1,3 @@
-Welcome to Atlas Exandria
+# Atlas Exandria
+
+Proper README coming.

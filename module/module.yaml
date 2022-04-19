@@ -1,0 +1,10 @@
+id: 6bfef5b5-01dc-456b-9555-f993ca56040c
+name: Atlas Exandria
+slug: atlas-exandria
+description: MrFarland's Atlas Exandria
+author: Donald Farland (donfarland.com)
+code: atlas-exandria
+cover: assets/img/atlas-exandria-cover.png
+version: 0.0.1
+autoIncrementVersion: false
+create-roll-tables: true
