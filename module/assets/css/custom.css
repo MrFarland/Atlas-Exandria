@@ -1,6 +1,106 @@
 /*
- Atlas Exandria Custom CSS
- ------------------------------------------------------------
- This custom CSS file contains styles designed to overwrite 
- default styles in EncounterPlus and Module Packer.
+ Encounter+ iOS
+ version 1.0
+ ----------------
+ custom styles & theme
  */
+
+ /* Overrides of default Module Packer styles */
+ a {
+   color: #58180d;
+   text-decoration: none;
+   font-weight: bold;
+ }
+ 
+ table thead {
+   font-size: 1.0rem;
+ }
+
+ /* Flex Box Menu */
+ .menu-container {
+    align-items: center;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    font-size: 1.2rem;
+    line-height: 1.4rem;
+ }
+ .menu-div {
+   align-items: center;
+   background: #f2f2f2; 
+   border:0.1rem solid #919191; 
+   border-radius: 0.6rem;
+   display: flex; 
+   flex: 1; 
+   flex-basis: 9.0rem; 
+   height: 3.0rem;
+   margin:0.3rem; 
+   padding:0.3rem;
+   justify-content: center;
+   text-align: center;
+ }
+ .menu-container a {
+    align-items: center;
+    background: #f2f2f2; 
+    border:0.1rem solid #919191; 
+    border-radius: 0.6rem;
+    display: flex; 
+    flex: 1; 
+    flex-basis: 7.8rem; 
+    height: 3.0rem;
+    margin:0.3rem; 
+    padding:0.3rem;
+    justify-content: center;
+    text-align: center;
+ }
+ .menu-container a:hover {
+    background: #58180d; 
+    color: #f2f2f2;
+ }
+ .menu-container a:active {
+    background: #6b1b0c; 
+    color: #f2f2f2;
+ }
+
+ /* Controls */
+ .controls {
+   margin-bottom: 1.5rem;
+   text-align:center;
+ }
+ .result {
+   background: #f2f2f2; 
+   border:0.1rem solid #919191; 
+   border-radius: 0.6rem;
+   margin:0.3rem; 
+   min-height: 9.0rem;
+   padding: 1.0rem;
+ }
+
+ /* Footer */
+ .footer {
+    margin-top: 24.0rem;
+ }
+ .fan-content-policy {
+     color: #737373;
+     font-size: 0.8rem;
+     line-height: 0.8rem;
+     margin: 0 2.4rem 1.8rem 2.4rem;
+ }
+ .license {
+   color: #282828;
+   font-size: 1.0rem;
+   line-height: 1.0rem;
+   margin: 0 1.6rem 1.8rem 1.6rem;
+   text-align: center;
+}
+
+/* General Formatting*/
+.more {
+   font-size: 0.8rem;
+   margin: 0.4rem;
+   text-align: center;
+}
+.small-text {
+   font-size: 1.2rem;
+   line-height: 1.2rem;
+}
