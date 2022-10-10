@@ -1,12 +1,3 @@
----
-name: Atlas Exandria Design Document
-slug: atlas-exandria-design-document
-order: 00
-pdf-page-style: single-column
-footer: Copyright © 2022-2023 MrFarland
----
-![Heading](./module/assets/img/heading.png){.size-cover}
-
 <div align="center">
   <h1>Atlas Exandria</h1>
   <h4>Design Document</h4>
