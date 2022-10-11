@@ -42,16 +42,30 @@ The following are the intended deliverables for this project.
 1. **Offline Atlas**: An offline, non-interactive version of the atlas in PDF format.
 1. **Cartographer's Guide**: Documentation on the settings & conventions used to create the maps.
 
-## Functional Requirements
-The following are the various functional requirements I have identified to date for this module and related deliverables. The requirements are grouped alphabetically and do not reflect priority or delivery date.
+## Screens
+The following are the screens needed for this module with a brief description of the information displayed on each.
 
-### Maps
-1. As a GM, I want to open a map of the world of Exandria and see a canon-consistent representation of the world based on available resources such as:
-    - Tal'Dorei Reborn
-    - Explorer's Guide to Wildemount
-    - Tal'Dorei Campaign Setting Guide
-    - Critical Role Actual Play Stream
-1. As a GM, I want to open a map of the world of Exandria and see an overlay of the climate zones super-imposed over the world.
+### Home Screen
+The main menu is the initial screen displayed when opening the module from the library.
+
+### World Screen
+
+
+### Continent Screen
+The continent screens are the page where information is displayed about a specific content.
+
+### Region Screen
+A **region screen** is a page with maps & information about a specific region of a continent. 
+
+### Feature Screen
+
+### Settlement Screen
+
+1. As a GM, I want to open a map of the world of Exandria and see a canon-consistent representation of the world based on official sourcebooks and online fan resources.
+1. As a GM, I want to see maps of:
+    - Exandria
+    - Continents of Issylra, Marquet, Tal'Dorei, Wildemount & the Shattered Teeth.
+    - Regions identified in the Explorer's 
 
 
 
