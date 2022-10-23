@@ -8,8 +8,6 @@
  /* Overrides of default Module Packer styles */
  a {
    color: #58180d;
-   text-decoration: none;
-   font-weight: bold;
  }
  
  table thead {
@@ -22,22 +20,6 @@
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
-    font-size: 1.2rem;
-    line-height: 1.4rem;
- }
- .menu-div {
-   align-items: center;
-   background: #f2f2f2; 
-   border:0.1rem solid #919191; 
-   border-radius: 0.6rem;
-   display: flex; 
-   flex: 1; 
-   flex-basis: 9.0rem; 
-   height: 3.0rem;
-   margin:0.3rem; 
-   padding:0.3rem;
-   justify-content: center;
-   text-align: center;
  }
  .menu-container a {
     align-items: center;
@@ -45,11 +27,13 @@
     border:0.1rem solid #919191; 
     border-radius: 0.6rem;
     display: flex; 
-    flex: 1; 
-    flex-basis: 7.8rem; 
-    height: 3.0rem;
-    margin:0.3rem; 
-    padding:0.3rem;
+    flex: 1;
+    flex-basis: 18.0rem; 
+    font-size: 1.0rem;
+    height: 5.0rem;
+    line-height: 1.0rem;
+    margin:0.2rem;
+    padding:0.2rem;
     justify-content: center;
     text-align: center;
  }
@@ -78,21 +62,16 @@
 
  /* Footer */
  .footer {
-    margin-top: 24.0rem;
+   border-top: 0.1rem solid #282828;
+   margin-top: 24.0rem;
+   padding: 0.5rem;
  }
- .fan-content-policy {
+ .disclaimer {
      color: #737373;
      font-size: 0.8rem;
      line-height: 0.8rem;
-     margin: 0 2.4rem 1.8rem 2.4rem;
+     margin: 0 1.0rem 1.8rem 1.0rem;
  }
- .license {
-   color: #282828;
-   font-size: 1.0rem;
-   line-height: 1.0rem;
-   margin: 0 1.6rem 1.8rem 1.6rem;
-   text-align: center;
-}
 
 /* General Formatting*/
 .more {
