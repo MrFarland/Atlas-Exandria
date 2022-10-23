@@ -6,4 +6,5 @@
 **/.DS_Store
 bin/
 module/ModuleBuild/
-/wonderdraft
+sources/
+wonderdraft/
