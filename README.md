@@ -48,6 +48,8 @@ This section contains the various requirements written in "user story" form to c
 *As a **USER**, I want **NEED**, so that I can **RATIONALE***
 
 ### Cartography Guide
+*To avoid duplication and the potential for conflicting information, I will only be defining exact values, settings, etc. in the actual guide.*
+
 As a **Wonderdraft user**,
 
 1. **Colors**: I want to know the hexadecimal color codes in the color palette, so that I can create a matching pallete in my copy of Wonderdraft.
@@ -60,7 +62,8 @@ As a **Wonderdraft user**,
 ### Digital Maps
 As a **GM**,
 
-1. 
+1. **Hex Map**: I want a hex overlay on the maps with a consistent scale so that I can quickly estimate distances.
+1. **Printable**: I want the ability to print the maps out on standard US paper, so that I can hand them out to my players.
 
 ### EncounterPlus Module
 As an **EncounterPlus user**,
