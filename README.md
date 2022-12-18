@@ -12,11 +12,20 @@
 <p align="center">
     <a href="#introduction">Introduction</a> •
     <a href="#goals">Goals</a> •
-    <a href="#requirements">Requirements</a>
+    <a href="#requirements">Requirements</a> •
+    <a href="#credits">Credits</a> •
+    <a href="#legal">Legal</a>
 </p>
 
 ## Introduction
 Atlas Exandria is a comprehensive geographical reference for the world of Exandria for 5th edition [Dungeons & Dragons](https://dnd.wizards.com) game masters running "open world" campaigns & adventures in the [Critical Role](https://critrole.com) universe. Atlas Exandria is an interactive reference module for the [EncounterPlus](https://encounter.plus) virtual tabletop system available for Apple iOS and MacOS devices. 
+
+### What is EncounterPlus?
+[EncounterPlus](https://encounter.plus) is an advanced Virtual Tabletop (VTT) application for the 5th edition of the popular tabletop RPG system Dungeons & Dragons. It was designed to help Dungeon masters run combat encounters more easily, track initiative, health, statistics and conditions seamlessly and efficiently. It is available for iOS and Mac devices.
+
+### What is an EncounterPlus Module?
+A module is a collection of pages, encounters, and maps that can be quickly and easily imported into EncounterPlus. They can be reference materials, adventures, or any number of tools that can help run a D&D session more efficiently. 
+
 
 This module was conceived, designed, and developed for the purpose of supporting my personal campaigns & adventures in the world of Exandria. As such, this module was created for:
 
@@ -77,3 +86,17 @@ A **feature** screen is an informational screen that displays information about 
 
 #### Settlement Screen
 A **settlement** screen is an informational screen that displays information about a specific settlement in a given region.
+
+## Credits
+I'd like to extend my special thanks to the entire EncounterPlus community. Their hard work, patience, advice, and encouragement have been huge. Thank you [Juraj](https://twitter.com/encounterplus) for such an amazing product; and thank you [JacobJ](https://raphus.social/@jacob) and [rrgeorge](https://raphus.social/@rrgeorge) for all your help. I couldn't have done this without you.
+
+I have made a valiant effort to use my own words and resources in the creation of this module and use content released under Creative Commons licenses. If I have somehow inadvertently used your work and/or not given you appropriate credit, I apologize. Please contact me via [Mastodon](https://raphus.social/@MrFarland), [Twitter](https://twitter.com/MrFarland) or [Reddit](https://www.reddit.com/user/MrFarland) and I will rectify the situation as soon as humanly possible.
+
+## Legal
+**Atlas Exandria** by [Donald Farland](https://donfarland.com) is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+### Critical Role Content Policy
+**Atlas Exandria** is unofficial fan content permitted under the [Critical Role Content Policy](https://critrole.com/critical-role-content-policy/). This module is NOT approved/endorsed by Critical Role.
+
+### Wizards of the Coast Fan Content Policy
+**Atlas Exandria** is unofficial Fan Content permitted under the [Wizards of the Coast Fan Content Policy](https://company.wizards.com/fancontentpolicy). Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. Wizards of the Coast, Dungeons & Dragons, and their logos are trademarks of Wizards of the Coast LLC in the United States and other countries. © 2015 Wizards. All Rights Reserved.
