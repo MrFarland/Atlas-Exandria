@@ -47,45 +47,37 @@ This section contains the various requirements written in "user story" form to c
 
 *As a **USER**, I want **NEED**, so that I can **RATIONALE***
 
-### Interface
-#### Conventions
-#### Navigation
+### Cartography Guide
+As a **Wonderdraft user**,
 
+1. **Colors**: I want to know the hexadecimal color codes in the color palette, so that I can create a matching pallete in my copy of Wonderdraft.
+1. **Conventions**: I want to know what map-making conventions were used to govern how and where items were placed, so that I can use the same conventions in my own maps.
+1. **Labels**: I want to know what fonts and sizes were used for the various labels, so that I can create the same label formats in my copy of Wonderdraft.
+1. **Resolution**: I want to know that the resolutions and dimensions are for the various map types, so that I can create maps of a similar size & scale.
+1. **Settings**: I want to know what settings were used in Wonderdraft, so that I can configure my copy of Wonderdraft to produce maps with a similar style.
+1. **Techniques**: I want to know what techniques were used to create the maps so that I can replicate the same look and feel as the originals.
 
-### Maps
-#### World Map
-A **world** map is a graphical representation of the entire world.
+### Digital Maps
+As a **GM**,
 
-#### Continent Map
-A **continent** map is a graphical representation of a single continent in the world.
+1. 
 
-#### Region Map
-A **region** map is a graphical representation of a specific subdivision of a continent in the world.
+### EncounterPlus Module
+As an **EncounterPlus user**,
 
-#### Settlement Map
-A **settlement** map is a graphical representation of a single settlement in the world.
+1. **Fluid (Pt. 1)**: I want the user interface & content to scale to different window sizes gracefully, so that I can launch the module from the module browser, shortcut bar, or search.
+1. **Fluid (Pt. 2)**: I want the user interface & content to scale to different window sizes gracefully, so that I can use the module on my iPad or Mac.
 
-### Screens
+### PDF Document
+As a **GM**,
 
-#### Home Screen
-The home screen is the initial screen that is displayed to the user when the module is opened in EncounterPlus.
+1. 
 
-#### World Screen
-A **world** screen is an informational screen that displays information about the entire world.
+### Wonderdraft Maps
+As a **Wonderdaft user**,
 
-#### Continent Screen
-A **continent** screen is an informational screen that displays information about a specific continent in the world of Exandria.
-
-#### Region Screen
-A **region** screen is an informational screen that displays information about a specific geographical feature on a given continent.
-
-1. As a **USER**, I want **NEED**, so that I can **REASON**
-
-#### Feature Screen
-A **feature** screen is an informational screen that displays information about a specific geographical feature in a given region.
-
-#### Settlement Screen
-A **settlement** screen is an informational screen that displays information about a specific settlement in a given region.
+1. **Source Files**: I want access to the original Wonderdraft source files, so that I make my own modifications to suit my own version of Exandria.
+1. **Stock Assets**: I want the maps to be created using only stock assets, so that I don't have to track down & install custom or commercial assets.
 
 ## Credits
 I'd like to extend my special thanks to the entire EncounterPlus community. Their hard work, patience, advice, and encouragement have been huge. Thank you [Juraj](https://twitter.com/encounterplus) for such an amazing product; and thank you [JacobJ](https://raphus.social/@jacob) and [rrgeorge](https://raphus.social/@rrgeorge) for all your help. I couldn't have done this without you.
