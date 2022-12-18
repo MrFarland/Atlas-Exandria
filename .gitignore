@@ -6,5 +6,6 @@
 **/.DS_Store
 bin/
 module/ModuleBuild/
+releases/
 sources/
 wonderdraft/
