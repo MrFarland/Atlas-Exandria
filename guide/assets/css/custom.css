@@ -1,0 +1,85 @@
+/*
+ Encounter+ iOS
+ version 1.0
+ ----------------
+ custom styles & theme
+ */
+
+ /* Overrides of default Module Packer styles */
+ a {
+   color: #58180d;
+ }
+ 
+ table thead {
+   font-size: 1.0rem;
+ }
+
+ /* Flex Box Menu */
+ .menu-container {
+    align-items: center;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+ }
+ .menu-container a {
+    align-items: center;
+    background: #f2f2f2; 
+    border:0.1rem solid #919191; 
+    border-radius: 0.6rem;
+    display: flex; 
+    flex: 1;
+    flex-basis: 18.0rem; 
+    font-size: 1.0rem;
+    height: 5.0rem;
+    line-height: 1.0rem;
+    margin:0.2rem;
+    padding:0.2rem;
+    justify-content: center;
+    text-align: center;
+ }
+ .menu-container a:hover {
+    background: #58180d; 
+    color: #f2f2f2;
+ }
+ .menu-container a:active {
+    background: #6b1b0c; 
+    color: #f2f2f2;
+ }
+
+ /* Controls */
+ .controls {
+   margin-bottom: 1.5rem;
+   text-align:center;
+ }
+ .result {
+   background: #f2f2f2; 
+   border:0.1rem solid #919191; 
+   border-radius: 0.6rem;
+   margin:0.3rem; 
+   min-height: 9.0rem;
+   padding: 1.0rem;
+ }
+
+ /* Footer */
+ .footer {
+   border-top: 0.1rem solid #282828;
+   margin-top: 24.0rem;
+   padding: 0.5rem;
+ }
+ .disclaimer {
+     color: #737373;
+     font-size: 0.8rem;
+     line-height: 0.8rem;
+     margin: 0 1.0rem 1.8rem 1.0rem;
+ }
+
+/* General Formatting*/
+.more {
+   font-size: 0.8rem;
+   margin: 0.4rem;
+   text-align: center;
+}
+.small-text {
+   font-size: 1.2rem;
+   line-height: 1.2rem;
+}
